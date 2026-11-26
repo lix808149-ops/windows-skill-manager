@@ -1,0 +1,11 @@
+/_python/
+/_tools/vendor/
+/.bootstrap/
+/.skill-management/
+/_reports/
+/skills/
+/skillshare.yaml
+/skill-sources.json
+/setup-result.json
+/install-result.json
+__pycache__/
